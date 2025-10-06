@@ -21,7 +21,7 @@ This project includes both **frontend** and **backend** parts. Follow the steps 
 5. If you are using the frontend and backend on **different systems**, update the backend IP address in:
 
    ```
-   src/api/apiUrl.js
+   src/Components/dashboard/apiUrl.js
    ```
 
 ---
@@ -62,3 +62,10 @@ This project includes both **frontend** and **backend** parts. Follow the steps 
 ---
 
 ### Now you're ready to run your fullstack app!
+
+<!-- Contact -->
+
+If you face any issues running the project, please contact:
+Email: malviyarohit1602@gmail.com
+
+Mobile: +91 8458959348
